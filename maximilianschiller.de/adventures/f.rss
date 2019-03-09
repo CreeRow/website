@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Maximilian Schiller</title>
+        <link>https://maximilianschiller.de</link>
+        <description>Maximilian Schiller</description>
+        <lastBuildDate>Wed, 06 Feb 2019 22:40:48 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Maximilian Schiller</generator>
+        <atom:link href="https://maximilianschiller.de/adventures/f" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New Adventure, who dis?]]></title>
+            <link>https://maximilianschiller.de/adventures/f/new-adventure-who-dis</link>
+            <guid>https://maximilianschiller.de/adventures/f/new-adventure-who-dis</guid>
+            <pubDate>Wed, 06 Feb 2019 22:40:48 GMT</pubDate>
+            <content:encoded><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3c7a55bb-8b54-4001-8741-2e7ef96a21a3/869724f2-6095-48c6-98f6-2ee39d82924b.jpg"/><p>New Adventures coming soon... This is just a test.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

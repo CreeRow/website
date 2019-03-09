@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://maximilianschiller.de</id>
+    <title>Maximilian Schiller</title>
+    <updated>2019-02-06T22:40:48Z</updated>
+    <generator>Maximilian Schiller</generator>
+    <author>
+        <name>Maximilian Schiller</name>
+    </author>
+    <link rel="alternate" href="https://maximilianschiller.de"/>
+    <link rel="self" href="https://maximilianschiller.de/adventures/f"/>
+    <subtitle>Maximilian Schiller</subtitle>
+    <entry>
+        <title type="html"><![CDATA[New Adventure, who dis?]]></title>
+        <id>new-adventure-who-dis</id>
+        <link href="https://maximilianschiller.de/adventures/f/new-adventure-who-dis">
+        </link>
+        <updated>2019-02-06T22:40:48Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/3c7a55bb-8b54-4001-8741-2e7ef96a21a3/869724f2-6095-48c6-98f6-2ee39d82924b.jpg"/><p>New Adventures coming soon... This is just a test.</p>]]></content>
+    </entry>
+</feed>
